@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://i.imgur.com/60zyQg6.png)
+![](https://i.imgur.com/6SnpkH7.png)
 
 ### Links
 
