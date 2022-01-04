@@ -255,6 +255,7 @@ img {
 
 .content {
   font-size: 32px;
+  font-weight: 300;
   width: 650px;
   line-height: 1.5;
   position: absolute;
