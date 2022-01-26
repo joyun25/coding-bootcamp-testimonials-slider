@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/joyun25/coding-bootcamp-testimonials-slider-master)
-- Live Site URL: [Github Page](https://joyun25.github.io/coding-bootcamp-testimonials-slider-master/)
+- Solution URL: [Github](https://github.com/joyun25/coding-bootcamp-testimonials-slider)
+- Live Site URL: [Github Page](https://joyun25.github.io/coding-bootcamp-testimonials-slider/)
 
 ### Built with
 
